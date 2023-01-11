@@ -1,4 +1,4 @@
-Dogglers - Starter Code
+CSM 3505 - LAB 4 -- DOGGLERS APP
 ==================================
 
 Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
